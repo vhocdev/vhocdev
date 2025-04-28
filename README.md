@@ -1,4 +1,5 @@
-<img src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif" /> <br />
+<p align="center"><img src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif" /> </p>
+
 - 👋 Howdy, I’m @vhocdev
 - 🏢 I’m currently working as Fullstack Specialist, focused on PHP and NodeJS language for backend, React for frontend and Ionic & Cordova/Flutter for mobile apps.
 - 👀 I’m interested in changing the world (people lives) via technology
